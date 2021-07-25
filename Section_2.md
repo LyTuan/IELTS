@@ -1,13 +1,13 @@
 ### Mục lục 
 1. [Hiện tại hoàn thành](#HTHT)
   
-  1.1 [Cú pháp](#structureHTHT)  
-  1.2 [Cách dùng](#UseHTHT)
+    1.1 [Cú pháp](#structureHTHT)  
+    1.2 [Cách dùng](#UseHTHT)
   
 2. [Hiện tại hoàn thành tiếp diễn](#HTHTTD)
 
-   2.1 [Cú pháp](#structureHTHTTD)
-   2.2 [Cách dùng](#UseHTHTTD)
+    2.1 [Cú pháp](#structureHTHTTD)
+    2.2 [Cách dùng](#UseHTHTTD)
 
 ### Hiện tại hoàn thành <a name="HTHT"></a>
 1.1 Cú pháp <a name="structureHTHT"></a>
