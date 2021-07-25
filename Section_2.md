@@ -64,3 +64,13 @@
 |VD: I have watched this movie twice   |VD: I have been watching this movie for two hour   |
 |- Kết quả <nhấn mạnh>   |- Quá trình  |
 |VD: I have taught English for 9 years, so I have a lot experience   |VD: I have been teaching English for 9 years, and it is such a long  journey |
+
+
+### 3. Quá khứ hoàn thành 
+#### 2.1 Cú pháp <a name="structureQKHT"></a>
+ ```
+  <+> S + had +  VPII  
+  <-> S + hadn't + VPII 
+  <?> Had + S + VPII? 
+ ```
+  
