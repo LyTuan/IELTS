@@ -67,7 +67,7 @@
 
 
 ### 3. Quá khứ hoàn thành 
-#### 2.1 Cú pháp <a name="structureQKHT"></a>
+#### 3.1 Cú pháp <a name="structureQKHT"></a>
  ```
   <+> S + had +  VPII  
   <-> S + hadn't + VPII 
